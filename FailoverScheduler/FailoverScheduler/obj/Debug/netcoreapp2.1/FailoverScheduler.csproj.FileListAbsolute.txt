@@ -1,0 +1,16 @@
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\FailoverScheduler.deps.json
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\FailoverScheduler.runtimeconfig.json
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\FailoverScheduler.runtimeconfig.dev.json
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\FailoverScheduler.dll
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.csproj.CoreCompileInputs.cache
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.RazorAssemblyInfo.cache
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.RazorAssemblyInfo.cs
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.AssemblyInfoInputs.cache
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.AssemblyInfo.cs
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.RazorTargetAssemblyInfo.cache
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.csprojAssemblyReference.cache
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\FailoverScheduler.pdb
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.dll
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.pdb
+D:\project\FailoverScheduler\FailoverScheduler\obj\Debug\netcoreapp2.1\FailoverScheduler.csproj.CopyComplete
+D:\project\FailoverScheduler\FailoverScheduler\bin\Debug\netcoreapp2.1\UserAuthorization.dll

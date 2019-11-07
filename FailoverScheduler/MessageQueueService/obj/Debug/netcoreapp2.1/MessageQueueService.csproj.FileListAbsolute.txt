@@ -1,0 +1,9 @@
+D:\Experiments\ConsumerTest\MessageQueueService\bin\Debug\netcoreapp2.1\MessageQueueService.deps.json
+D:\Experiments\ConsumerTest\MessageQueueService\bin\Debug\netcoreapp2.1\MessageQueueService.dll
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.csproj.CoreCompileInputs.cache
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.AssemblyInfoInputs.cache
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.AssemblyInfo.cs
+D:\Experiments\ConsumerTest\MessageQueueService\bin\Debug\netcoreapp2.1\MessageQueueService.pdb
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.csprojAssemblyReference.cache
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.dll
+D:\Experiments\ConsumerTest\MessageQueueService\obj\Debug\netcoreapp2.1\MessageQueueService.pdb
